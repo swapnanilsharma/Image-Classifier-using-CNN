@@ -1,4 +1,4 @@
-# ImageClassifier
+# Simple Image Classifier using CNN
 Train 2000 Dog and Cat images to different CNN models and analyzing their accuracy 
 
 Our setup: only 2000 training examples (1000 per class)
